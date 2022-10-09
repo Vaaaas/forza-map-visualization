@@ -13,7 +13,8 @@ import glob
 # https://plotly.com/python/animations/
 
 # path to folder containing the racing line files
-folder_path = '../data/*csv'
+# folder_path = '../data/*csv'
+folder_path = 'data/*csv'
 
 # set the chart bounds
 # these values should typically be ~10% bigger than the bounds of the paths you are drawing

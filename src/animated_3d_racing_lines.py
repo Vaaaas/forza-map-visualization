@@ -7,7 +7,8 @@ import glob
 
 # This script creates an animated 3D gif of the racing line data from a specified folder.
 
-folder_path = '../data/*csv'
+# folder_path = '../data/*csv'
+folder_path = 'data/*csv'
 gif_path = r'..\visuals\animated_3d_racing_lines.gif'
 
 def update_line(num, data, line):
