@@ -15,8 +15,9 @@
 ## 🏁 Quick Start <a name="quick_start"></a>
 
 1. Clone this repository: `git clone https://github.com/austinbaccus/forza-map-visualization.git`
-2. Open a terminal and navigate to the folder containing the `src` folder
-3. Use the `python` to run any script you want. Each script is ready to go with sample data already included.
+2. Install Python requirements by running `pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt`
+3. Open a terminal and navigate to the folder containing the `src` folder
+4. Use the `python` to run any script you want. Each script is ready to go with sample data already included.
 
 Example: `python .\animated_3d_racing_lines.py`
 
